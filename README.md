@@ -1,4 +1,6 @@
-## Angular CRUD Tutorial 
+## A 2001 Space Odyssey Angular CRUD Tutorial 
+
+![](https://www.dropbox.com/s/wmk431y8awofqbw/spaceodyssey.png?raw=1)
 
 This tutorial assumes you've completed [Part 1](https://medium.com/hello-there-expressjs/hello-expressjs-a5bff26962fa) and [Part 2](https://medium.com/hello-there-expressjs/lets-get-fancy-6263ce2dd6b3) basic Express tutorials.
 
